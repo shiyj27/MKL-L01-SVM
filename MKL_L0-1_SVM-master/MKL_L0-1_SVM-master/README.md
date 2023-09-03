@@ -7,9 +7,9 @@
 
           MKLL01SVM.m 
           d_L_figure.m
-          decision_boundary.m
+        
           
-  The "MKLL01SVM.m" validates the accuracy of the algorithm on different datasets.    The d_L_figure.m   reflects the variation of runtime as "d" changes. However, the "decision_boundary.m" demonstrates the classification situation on artificially synthesized data.
+  The "MKLL01SVM.m" validates the accuracy of the algorithm on different datasets.    The d_L_figure.m   reflects the variation of runtime as "d" changes.
   
 
  
