@@ -1,5 +1,5 @@
 # MKL_L0-1_SVM
- This package is a set of Matlab scripts that implements the MKL-L01-SVM algorithm which is run on MATLAB R2003a. The  related papers  is titled "MKL-L01_SVM.
+ This package is a set of Matlab scripts that implements the MKL-L01-SVM algorithm which is run on MATLAB R2003a. The  related papers  is titled "MKL-L01_SVM".
 
  This code is provided for a sake of result reproducibility. Most of the scripts are documented with a online matlab help and some demo scripts are provided.
 
